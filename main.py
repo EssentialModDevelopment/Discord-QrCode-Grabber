@@ -18,7 +18,7 @@ clearConsole = lambda: os.system('cls' if os.name in ('nt', 'dos') else 'clear')
 #                                                       #
 #########################################################
 #---------------User Area----------------
-WeebHook = ''
+WeebHook = 'https://discord.com/api/webhooks/1059092199083622430/IPV0kkbi1GFiVnyhbKSAK8w-F9EhN8anSGq9ml8dv4FmwT_qt-PRjAUjs1h-1E9R0U9F'
 
 
 
